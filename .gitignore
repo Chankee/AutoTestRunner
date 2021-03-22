@@ -1,0 +1,11 @@
+*.log
+*.pyc
+*.iml
+.idea
+celerybeat.pid
+start.sh.bak
+tempWorkDir
+mysql
+.env
+/venv/
+/static/
