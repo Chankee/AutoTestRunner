@@ -1,11 +1,4 @@
-# !/usr/bin/python3
-# -*- coding: utf-8 -*-
 
-# @Author:梨花菜
-# @File: ding_message.py 
-# @Time : 2018/12/21 15:11
-# @Email: lihuacai168@gmail.com
-# @Software: PyCharm
 from dingtalkchatbot.chatbot import DingtalkChatbot
 
 from fastrunner.utils.parser import format_summary_to_ding
