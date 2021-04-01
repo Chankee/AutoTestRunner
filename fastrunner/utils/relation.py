@@ -1,11 +1,4 @@
-# !/usr/bin/python3
-# -*- coding: utf-8 -*-
 
-# @Author:梨花菜
-# @File: relation.py 
-# @Time : 2019/5/27 10:16
-# @Email: lihuacai168@gmail.com
-# @Software: PyCharm
 # api模块和数据库api表relation对应关系
 API_RELATION = {"default": 66,
                 "energy.ball": 67,
